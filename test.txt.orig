@@ -1,0 +1,6 @@
+i am in main
+<<<<<<< HEAD
+i am in branch1
+=======
+i am in branch2
+>>>>>>> dev2
